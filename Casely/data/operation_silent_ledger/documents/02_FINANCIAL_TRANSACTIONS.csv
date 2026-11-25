@@ -1,0 +1,7 @@
+transaction_id,date,sender,sender_account_suffix,receiver,receiver_account_suffix,amount,transfer_type,notes
+TXN-001,2026-10-14,Jishu Ghosh,N/A,Manthan,1042,850000,initial,Reported unauthorized transfer
+TXN-002,2026-10-14,Jishu Ghosh,N/A,Naman,2281,600000,initial,Reported unauthorized transfer
+TXN-003,2026-10-14,Jishu Ghosh,N/A,Rohan,9033,400000,initial,Reported unauthorized transfer
+TXN-004,2026-10-14,Manthan,1042,Naman,2281,500000,subsequent,Subsequent fund movement
+TXN-005,2026-10-14,Manthan,1042,Rohan,9033,200000,subsequent,Subsequent fund movement
+TXN-006,2026-10-15,Naman,2281,Rohan,9033,350000,subsequent,Subsequent fund movement

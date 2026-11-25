@@ -1,0 +1,7 @@
+[
+  {"name": "Jishu Ghosh", "case_role": "Business Owner / Complainant", "notes": "Reported unauthorized transactions from his business account"},
+  {"name": "Krishna Tayal", "case_role": "IT Contractor / Person of Interest", "notes": "Associated with SIM-101 and device DEV-77 (maintenance assignment)"},
+  {"name": "Manthan", "case_role": "Recipient Account Holder", "notes": "Account suffix 1042; associated with SIM-202"},
+  {"name": "Naman", "case_role": "Recipient Account Holder", "notes": "Account suffix 2281; associated with SIM-303"},
+  {"name": "Rohan", "case_role": "Recipient Account Holder", "notes": "Account suffix 9033; associated with SIM-404; vehicle registry partial RJ14-DEMO-4821"}
+]

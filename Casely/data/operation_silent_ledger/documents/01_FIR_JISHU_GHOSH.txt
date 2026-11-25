@@ -1,0 +1,32 @@
+FIRST INFORMATION REPORT
+(Under Section 154 Cr.P.C.)
+
+1. District: Jaipur City (East)
+   Police Station: Cyber Crime Police Station, Jaipur
+   FIR No: FIR-JPR-2026-118
+   Date & Time of FIR: 15 October 2026, 10:00 AM
+
+2. Details of Complainant / Informant:
+   Name: Jishu Ghosh
+   Occupation: Proprietor, Ghosh Industrial Supplies
+   Address: Sector 4, Malviya Nagar, Jaipur, Rajasthan
+
+3. Details of Incident:
+   Date & Time: 14 October 2026, between 20:05 and 20:32 hrs
+   Place of Occurrence: Online NetBanking Portal / Business Current Account
+   Nature of Offence: Unauthorized Electronic Fund Transfer / Cyber Fraud
+
+4. Complaint Brief:
+   Complainant Jishu Ghosh states that on the evening of 14 October 2026, he noticed unexpected SMS alerts regarding debit transactions from his business current account. Upon verifying his bank statement on the morning of 15 October 2026, he discovered three unauthorized outgoing RTGS/NEFT transfers executed within a 27-minute window:
+   - Transfer 1: Rs 8,50,000 to an account ending in 1042 (Account holder name registered as Manthan)
+   - Transfer 2: Rs 6,00,000 to an account ending in 2281 (Account holder name registered as Naman)
+   - Transfer 3: Rs 4,00,000 to an account ending in 9033 (Account holder name registered as Rohan)
+   
+   Total reported unauthorized financial loss: Rs 18,50,000 (Rupees Eighteen Lakh Fifty Thousand only).
+   
+   The complainant explicitly stated that he did not authorize these transactions, nor did he share any One-Time Passwords (OTP). He suspects unauthorized digital access to his finance workstation.
+
+5. Action Taken:
+   FIR registered under Sections 420/120B IPC and Section 66D Information Technology Act. Assigned to Cyber Crime Cell, Jaipur.
+
+DISCLAIMER: DEMONSTRATION DATA — All identities, records, and investigative details in this case are fictional and created exclusively for software demonstration purposes.

@@ -1,0 +1,11 @@
+{
+  "case_ref": "CR-2026-0842",
+  "title": "OPERATION SILENT LEDGER",
+  "status": "Active",
+  "category": "Reported Unauthorized Financial Transactions",
+  "location": "Jaipur, Rajasthan, India",
+  "reported_loss": 1850000,
+  "incident_date": "2026-10-14",
+  "fir_ref": "FIR-JPR-2026-118",
+  "case_summary": "On 14 October 2026, Jishu Ghosh reported unauthorized financial transactions totalling Rs 18,50,000 from his business account. This case involves digital access records, communication metadata, financial transaction trails, CCTV observations, and a witness statement. All data is fictional demonstration material."
+}

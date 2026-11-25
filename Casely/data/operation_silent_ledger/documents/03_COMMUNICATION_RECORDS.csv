@@ -1,0 +1,6 @@
+record_id,date,time,caller_sim,receiver_sim,duration_seconds,notes
+CALL-001,2026-10-14,18:42,SIM-101,SIM-202,186,Communication metadata only
+CALL-002,2026-10-14,19:16,SIM-202,SIM-303,94,Communication metadata only
+CALL-003,2026-10-14,19:38,SIM-101,SIM-202,72,Communication metadata only
+CALL-004,2026-10-14,20:48,SIM-303,SIM-404,210,Communication metadata only
+CALL-005,2026-10-15,08:52,SIM-202,SIM-404,145,Communication metadata only

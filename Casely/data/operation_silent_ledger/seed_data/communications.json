@@ -1,0 +1,7 @@
+[
+  {"caller_sim": "SIM-101", "receiver_sim": "SIM-202", "call_date": "2026-10-14", "call_time": "18:42:00", "duration_seconds": 186},
+  {"caller_sim": "SIM-202", "receiver_sim": "SIM-303", "call_date": "2026-10-14", "call_time": "19:16:00", "duration_seconds": 94},
+  {"caller_sim": "SIM-101", "receiver_sim": "SIM-202", "call_date": "2026-10-14", "call_time": "19:38:00", "duration_seconds": 72},
+  {"caller_sim": "SIM-303", "receiver_sim": "SIM-404", "call_date": "2026-10-14", "call_time": "20:48:00", "duration_seconds": 210},
+  {"caller_sim": "SIM-202", "receiver_sim": "SIM-404", "call_date": "2026-10-15", "call_time": "08:52:00", "duration_seconds": 145}
+]

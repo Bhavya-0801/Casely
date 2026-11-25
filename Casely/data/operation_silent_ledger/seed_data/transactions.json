@@ -1,0 +1,8 @@
+[
+  {"sender": "Jishu Ghosh", "receiver": "Manthan", "receiver_account_suffix": "1042", "amount": 850000, "transfer_type": "initial", "transaction_date": "2026-10-14"},
+  {"sender": "Jishu Ghosh", "receiver": "Naman", "receiver_account_suffix": "2281", "amount": 600000, "transfer_type": "initial", "transaction_date": "2026-10-14"},
+  {"sender": "Jishu Ghosh", "receiver": "Rohan", "receiver_account_suffix": "9033", "amount": 400000, "transfer_type": "initial", "transaction_date": "2026-10-14"},
+  {"sender": "Manthan", "sender_account_suffix": "1042", "receiver": "Naman", "receiver_account_suffix": "2281", "amount": 500000, "transfer_type": "subsequent", "transaction_date": "2026-10-14"},
+  {"sender": "Manthan", "sender_account_suffix": "1042", "receiver": "Rohan", "receiver_account_suffix": "9033", "amount": 200000, "transfer_type": "subsequent", "transaction_date": "2026-10-14"},
+  {"sender": "Naman", "sender_account_suffix": "2281", "receiver": "Rohan", "receiver_account_suffix": "9033", "amount": 350000, "transfer_type": "subsequent", "transaction_date": "2026-10-15"}
+]

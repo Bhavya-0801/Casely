@@ -1,0 +1,28 @@
+DIGITAL FORENSIC & SYSTEM ACCESS AUDIT REPORT
+Reference: SYS-AUDIT-441
+Investigating Agency: Cyber Crime Cell / Digital Forensics Unit, Jaipur
+Date of Report: 15 October 2026
+
+1. Target System:
+   Host Identifier: WORKSTATION-FIN-02 ("Finance Workstation")
+   IP Address (Internal): 192.168.1.45
+   Operating System: Windows 11 Enterprise
+   Physical Location: 2nd Floor, Ghosh Industrial Supplies, Malviya Nagar, Jaipur
+
+2. Log Audit Findings for 14 October 2026:
+   - 19:41:02 IST — Interactive remote/local login event recorded.
+     Account credential used: Domain/Local credential assigned to "Jishu Ghosh".
+   - 19:42:15 IST — Administrative authentication & banking portal security credential reset recorded.
+   - 20:05:00 - 20:32:00 IST — Active session utilized for external banking gateway portal access.
+   - 20:34:10 IST — Session terminated / lock event.
+
+3. Hardware Issue & Maintenance Association:
+   - Device Identifier: DEV-77 (External Diagnostic & Network Interface Adapter)
+   - Device Issue Register: DEV-77 was formally issued to Krishna Tayal (Contract IT Specialist / Network Maintenance) on 10 October 2026 for scheduled network optimization and hardware servicing.
+   - Device Return Register: Recorded returned on 16 October 2026.
+   - Hardware Log: DEV-77 was attached to WORKSTATION-FIN-02 during the 19:40-20:35 time period.
+
+4. Evidentiary Limitation Note:
+   System logs establish that credential assigned to Jishu Ghosh was entered, and that diagnostic device DEV-77 issued to Krishna Tayal was connected. The logs DO NOT independently establish who physically operated the keyboard or workstation at 19:41 IST. Physical presence or unauthorized credential compromise remains subject to corroboration.
+
+DISCLAIMER: DEMONSTRATION DATA — All identities, records, and investigative details in this case are fictional and created exclusively for software demonstration purposes.

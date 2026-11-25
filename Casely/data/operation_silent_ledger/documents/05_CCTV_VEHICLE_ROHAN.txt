@@ -1,0 +1,21 @@
+CCTV SURVEILLANCE & OBSERVATION REPORT
+Reference: CCTV-JPR-209
+Location: Commercial Complex & ATM Kiosk Junction, JLN Marg / Malviya Nagar Crossroad, Jaipur
+Source: Camera Pole #14 (Public-Private Community Safety Feed)
+Date of Incident: 14 October 2026
+Report Prepared By: Sub-Inspector R. K. Meena, CCTV Analysis Cell
+
+1. Recorded Sequence of Events:
+   - 21:18:22 IST: A white sedan motor vehicle is observed entering the camera frame and coming to a temporary halt near the Commercial Bank ATM kiosk.
+   - Partial Vehicle Registration Plate: RJ14-DEMO-4821.
+   - 21:19:05 IST: An unidentified individual wearing a dark jacket/cap exits the vehicle and enters the ATM kiosk enclosure.
+   - 21:21:40 IST: The individual exits the kiosk, re-enters the vehicle, and the vehicle departs heading towards Malviya Nagar sector road.
+
+2. Vehicle Registry Database Match:
+   - Inquiry on partial registration string "RJ14-DEMO-4821" in synthetic vehicle records indicates an association with: Rohan.
+
+3. Forensic Quality & Identification Limitations:
+   - Facial Recognition Status: INCONCLUSIVE. Insufficient visual clarity, low night-time illumination, and angle of camera prevent positive identification of the driver or the person who entered the ATM.
+   - Evidentiary Note: This observation confirms the presence of the vehicle associated with Rohan's synthetic registration at 21:18 IST. It DOES NOT prove Rohan was driving or physically present, nor does it establish whether the ATM transaction was connected to the disputed funds.
+
+DISCLAIMER: DEMONSTRATION DATA — All identities, records, and investigative details in this case are fictional and created exclusively for software demonstration purposes.
